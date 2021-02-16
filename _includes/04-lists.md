@@ -1,1 +1,11 @@
-Replace this with a list of your favorite things.
+<Details asd>
+  <summary>Tech stack I use</summary>
+ 
+---
+
+* HTML
+* CSS
+* JS
+* React
+
+</Details>
