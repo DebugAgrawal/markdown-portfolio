@@ -1,4 +1,4 @@
-**Teting** ****
+**Testing** ****
 
 __Markdown__ ____
 
